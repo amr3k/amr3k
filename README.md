@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hi There ![Hi.gif](https://ik.imagekit.io/a3k/gh/tr:w-40/hi.gif)
 
 I'm a Freelancer **full stack web developer**. Currently, I'm doing web applications with Sveltekit. I'm open to collaborate on interesting projects.
 
-## [My portfolio](https://a3k.tech) ![External link icon](https://ik.imagekit.io/a3k/i/tr:w-16/external-link.png)
+# [My portfolio](https://a3k.tech) ![External link icon](https://ik.imagekit.io/a3k/i/tr:w-16/external-link.png)
 
-## **Skills** ![Juggling.gif](https://ik.imagekit.io/a3k/gh/tr:w-40/jg.gif)
+# Skills ![Juggling.gif](https://ik.imagekit.io/a3k/gh/tr:w-40/jg.gif)
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -14,8 +16,8 @@ These are some of the major technologies that I use or have worked on in the pas
 | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
 
 ### **Libraries and Frameworks**
-| ![Svelte](https://ik.imagekit.io/a3k/gh/tr:w-40/svelte.png) | ![FastAPI](https://ik.imagekit.io/a3k/gh/tr:w-120/fastapi.png) | ![Wordpress](https://ik.imagekit.io/a3k/gh/tr:w-40/wp.png) | ![Telegram bot API](https://ik.imagekit.io/a3k/gh/tr:w-40/tg.png) | ![QT](https://ik.imagekit.io/a3k/gh/tr:w-40/qt.png) |
-| ----------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------- |
+| ![Svelte](https://ik.imagekit.io/a3k/gh/tr:w-40/svelte.png) | ![FastAPI](https://ik.imagekit.io/a3k/gh/tr:w-120/fastapi.png) | ![Wordpress](https://ik.imagekit.io/a3k/gh/tr:w-40/wp.png) | ![Telegram bot API](https://ik.imagekit.io/a3k/gh/tr:w-40/tg.png) |
+| ----------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------- |
 
 ### **Cloud**
 
@@ -42,8 +44,8 @@ These are some of the major technologies that I use or have worked on in the pas
 | ![Mysql](https://ik.imagekit.io/a3k/gh/tr:w-60/mysql.png) | ![MariaDB](https://ik.imagekit.io/a3k/gh/tr:w-80/MariaDB.png) | ![Microsoft SQL server](https://ik.imagekit.io/a3k/gh/tr:w-40/mssql.png) | ![Firebase](https://ik.imagekit.io/a3k/gh/tr:w-70/Firebase.png) |
 | --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
 
-| ![jQuery](https://ik.imagekit.io/a3k/gh/tr:w-80/jquery.png) | ![Microsoft .Net WPF](https://ik.imagekit.io/a3k/gh/tr:w-40/wpf.png) | ![Flutter](https://ik.imagekit.io/a3k/gh/tr:w-100/flutter.png) |
-| ----------------------------------------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------- |
+| ![jQuery](https://ik.imagekit.io/a3k/gh/tr:w-80/jquery.png) | ![Microsoft .Net WPF](https://ik.imagekit.io/a3k/gh/tr:w-40/wpf.png) | ![QT](https://ik.imagekit.io/a3k/gh/tr:w-40/qt.png) | ![Flutter](https://ik.imagekit.io/a3k/gh/tr:w-100/flutter.png) |
+| ----------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------- |
 
 ## Github 📊
 
@@ -52,11 +54,12 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## Get in touch
 
-| [![Linkedin](https://ik.imagekit.io/a3k/gh/tr:w-40/linkedin.png)](https://www.linkedin.com/in/a3k) | [![Email](https://ik.imagekit.io/a3k/gh/tr:w-40/mail.png)](mailto://contact@a3k.tech) |
+| [![Linkedin](https://ik.imagekit.io/a3k/gh/tr:w-30/linkedin.png)](https://www.linkedin.com/in/a3k) | [![Email](https://ik.imagekit.io/a3k/gh/tr:w-40/mail.png)](mailto://contact@a3k.tech) |
 | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
 
+### **Here is a random joke, to make your day better**
+*PS: Refresh the page to see a new one* 😉
 
-### **Here is a random meme for you, to make your day better**
-
-(*PS: Refresh the page to see a new meme* 😉 )
 ![Random joke](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
+
+</div>
