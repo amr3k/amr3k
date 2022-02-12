@@ -2,7 +2,7 @@
 
 I'm a Freelancer **full stack web developer**. Currently, I'm doing web applications with Sveltekit. I'm open to collaborate on interesting projects.
 
-## [My portfolio](https://a3k.tech) ![External link icon by icons8](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABC0lEQVRIie3UPUoEQRAF4M+djQw33QuYGxgY6gEMxETEBcEjCF5DRFCQ1WAzj2BiZCKIkWCgJ1CMDVyD6dGlbeeHjoR9UMx0zdR71VXVzX/HQmb8FtYi3yfOcJ/JDSaYJuyk+qGXKbCtrEKByxl/Ub30o4A+NjBoQf6Ma2WS59jFBUZ1QcfSW47tCcNAPg6+cVhPcfrXDlbwiJ2G7F/wHjIfhcz3lA2uxV2wJqQyrzDBZo5AinyI9RaJNQqkyAfKnuznCvSUtY7Lshx8SYEu5+DAzyi2amhXgRscdiHn95jW4TZYJ+ReFXOBfMRNfsOqdtdFhcXwfE19LKL1A5ZmgtrgA1c40mF85/jGF7coRLZWsmphAAAAAElFTkSuQmCC)
+## [My portfolio](https://a3k.tech) ![External link icon](https://ik.imagekit.io/a3k/i/tr:w-16/external-link.png)
 
 ## **Skills** ![Juggling.gif](https://ik.imagekit.io/a3k/gh/tr:w-40/jg.gif)
 
