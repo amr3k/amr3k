@@ -1,17 +1,17 @@
 <div align="center">
 
-# 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮 ![Hi.gif](https://ik.imagekit.io/a3k/gh/tr:w-40/hi.gif)
+# 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮 ![Hi.gif](./i/hi.gif)
 
 I'm a Freelancer **full stack web developer**. Currently, I'm doing web applications with Sveltekit. I'm open to collaborate on interesting projects.
 
 ---
 <br>
 
-# [My portfolio](https://a3k.tech) ![External link icon](https://ik.imagekit.io/a3k/i/tr:w-16/external-link.png)
+# [My portfolio](https://a3k.tech) ![External link icon](./i/external-link.png)
 
 <br>
 
-# 𝓢𝓴𝓲𝓵𝓵𝓼 ![Juggling.gif](https://ik.imagekit.io/a3k/gh/tr:w-40/jg.gif)
+# 𝓢𝓴𝓲𝓵𝓵𝓼 ![Juggling.gif](./i/jg.gif)
 
 These are some of the major technologies that I use or have worked on in the past:
 
@@ -19,50 +19,50 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ### **ℙ𝕣𝕠𝕘𝕣𝕒𝕞𝕞𝕚𝕟𝕘 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖𝕤**
 
-| ![Python](https://ik.imagekit.io/a3k/gh/tr:w-50/py.png) | ![Javascript](https://ik.imagekit.io/a3k/gh/tr:w-40/js.png) | ![Typescript](https://ik.imagekit.io/a3k/gh/tr:w-40/ts.png) |
-| ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| ![Python](./i/py.png) | ![Javascript](./i/js.png) | ![Typescript](./i/ts.png) |
+| --------------------- | ------------------------- | ------------------------- |
 
 <br>
 
 ### **𝕃𝕚𝕓𝕣𝕒𝕣𝕚𝕖𝕤 𝕒𝕟𝕕 𝔽𝕣𝕒𝕞𝕖𝕨𝕠𝕣𝕜𝕤**
-| ![Svelte](https://ik.imagekit.io/a3k/gh/tr:w-40/svelte.png) | ![FastAPI](https://ik.imagekit.io/a3k/gh/tr:w-120/fastapi.png) | ![Wordpress](https://ik.imagekit.io/a3k/gh/tr:w-40/wp.png) | ![Telegram bot API](https://ik.imagekit.io/a3k/gh/tr:w-40/tg.png) |
-| ----------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![Svelte](./i/svelte.png) | ![FastAPI](./i/fastapi.png) | ![Wordpress](./i/wp.png) | ![Telegram bot API](./i/tg.png) |
+| ------------------------- | --------------------------- | ------------------------ | ------------------------------- |
 
 <br>
 
 ### **ℂ𝕝𝕠𝕦𝕕**
 
-| ![Microsoft Azure](https://ik.imagekit.io/a3k/gh/tr:w-120/az.png) | ![Oracle cloud](https://ik.imagekit.io/a3k/gh/tr:w-60/oc.png) | ![Digitalocean](https://ik.imagekit.io/a3k/gh/tr:w-120/digitalocean.png) | ![Vultr](https://ik.imagekit.io/a3k/gh/tr:w-120/vultr.png) |
-| ----------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------- |
+| ![Microsoft Azure](./i/az.png) | ![Oracle cloud](./i/oc.png) | ![Digitalocean](./i/digitalocean.png) | ![Vultr](./i/vultr.png) |
+| ------------------------------ | --------------------------- | ------------------------------------- | ----------------------- |
 
-| ![Heroku](https://ik.imagekit.io/a3k/gh/tr:w-80/heroku.png) | ![Vercel](https://ik.imagekit.io/a3k/gh/tr:w-80/vc.png) | ![Netlify](https://ik.imagekit.io/a3k/gh/tr:w-80/netlify.png) |
-| ----------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------------- |
+| ![Heroku](./i/heroku.png) | ![Vercel](./i/vc.png) | ![Netlify](./i/netlify.png) |
+| ------------------------- | --------------------- | --------------------------- |
 
 <br>
 
 ### **𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖𝕤**
 
-| ![PostgresQL](https://ik.imagekit.io/a3k/gh/tr:w-80/postgresql.png) | ![MongoDB](https://ik.imagekit.io/a3k/gh/tr:w-80/mongo.png) | ![SQLite](https://ik.imagekit.io/a3k/gh/tr:w-80/sqlite.png) |
-| ------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- |
+| ![PostgresQL](./i/postgresql.png) | ![MongoDB](./i/mongo.png) | ![SQLite](./i/sqlite.png) |
+| --------------------------------- | ------------------------- | ------------------------- |
 
 <br>
 
 ### **𝕋𝕠𝕠𝕝𝕤**
 
-| ![Linux](https://ik.imagekit.io/a3k/gh/tr:w-40/Linux.png) | ![Zsh](https://ik.imagekit.io/a3k/gh/tr:w-40/zsh.png) | ![VS Code](https://ik.imagekit.io/a3k/gh/tr:w-40/vscode.png) | ![PyCharm](https://ik.imagekit.io/a3k/gh/tr:w-40/pycharm.png) | ![Git](https://ik.imagekit.io/a3k/gh/tr:w-40/git.png) |
-| --------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- | ----------------------------------------------------- |
+| ![Linux](./i/Linux.jpeg) | ![Zsh](./i/zsh.png) | ![VS Code](./i/vscode.png) | ![PyCharm](./i/pycharm.png) | ![Git](./i/git.png) |
+| ------------------------ | ------------------- | -------------------------- | --------------------------- | ------------------- |
 
 <br><br>
 
 ## 𝕋𝕖𝕔𝕙𝕟𝕠𝕝𝕠𝕘𝕚𝕖𝕤 𝕀 𝕦𝕤𝕖𝕕 𝕚𝕟 𝕥𝕙𝕖 𝕡𝕒𝕤𝕥 👇
-| ![PHP](https://ik.imagekit.io/a3k/gh/tr:w-60/php.png) | ![C](https://ik.imagekit.io/a3k/gh/tr:w-30/c.png) | ![C-hashtag 🤪](https://ik.imagekit.io/a3k/gh/tr:w-30/c-sharp.png) | ![Dart](https://ik.imagekit.io/a3k/gh/tr:w-100/dart.png) |
-| ----------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------- |
+| ![PHP](./i/php.png) | ![C](./i/c.png) | ![C-hashtag 🤪](./i/c-sharp.png) | ![Dart](./i/dart.png) |
+| ------------------- | --------------- | ------------------------------- | --------------------- |
 
-| ![Mysql](https://ik.imagekit.io/a3k/gh/tr:w-60/mysql.png) | ![MariaDB](https://ik.imagekit.io/a3k/gh/tr:w-80/MariaDB.png) | ![Microsoft SQL server](https://ik.imagekit.io/a3k/gh/tr:w-40/mssql.png) | ![Firebase](https://ik.imagekit.io/a3k/gh/tr:w-70/Firebase.png) |
-| --------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------- |
+| ![Mysql](./i/mysql.png) | ![Microsoft SQL server](./i/mssql.png) | ![Firebase](./i/Firebase.png) |
+| ----------------------- | -------------------------------------- | ----------------------------- |
 
-| ![jQuery](https://ik.imagekit.io/a3k/gh/tr:w-80/jquery.png) | ![Microsoft .Net WPF](https://ik.imagekit.io/a3k/gh/tr:w-40/wpf.png) | ![QT](https://ik.imagekit.io/a3k/gh/tr:w-40/qt.png) | ![Flutter](https://ik.imagekit.io/a3k/gh/tr:w-100/flutter.png) |
-| ----------------------------------------------------------- | -------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------- |
+| ![jQuery](./i/jquery.png) | ![Microsoft .Net WPF](./i/dot-net.png) | ![QT](./i/qt.png) | ![Flutter](./i/flutter.png) |
+| ------------------------- | -------------------------------------- | ----------------- | --------------------------- |
 
 <br><br>
 
@@ -73,8 +73,8 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## 𝕲𝖊𝖙 𝖎𝖓 𝖙𝖔𝖚𝖈𝖍
 
-| [![Linkedin](https://ik.imagekit.io/a3k/gh/tr:w-30/linkedin.png)](https://www.linkedin.com/in/a3k) | [![Email](https://ik.imagekit.io/a3k/gh/tr:w-40/mail.png)](mailto://contact@a3k.tech) |
-| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| [![Linkedin](./i/linkedin.png)](https://www.linkedin.com/in/a3k) | [![Email](./i/mail.png)](mailto://contact@a3k.tech) |
+| ---------------------------------------------------------------- | --------------------------------------------------- |
 
 ### **Here is a random joke, to make your day better**
 𝒫𝒮: 𝑅𝑒𝒻𝓇𝑒𝓈𝒽 𝓉𝒽𝑒 𝓅𝒶𝑔𝑒 𝓉𝑜 𝓈𝑒𝑒 𝒶 𝓃𝑒𝓌 𝑜𝓃𝑒 😉
