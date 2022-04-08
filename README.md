@@ -68,7 +68,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 ## 𝕲𝖊𝖙 𝖎𝖓 𝖙𝖔𝖚𝖈𝖍
 
-| [![Linkedin](./i/linkedin.png)](https://www.linkedin.com/in/a3k) | [![Email](./i/mail.png)](mailto://contact@a3k.tech) |
+| [![Linkedin](./i/linkedin.png)](https://www.linkedin.com/in/a3k) | [![Email](./i/mail.png)](mailto://contact@computly.me) |
 | ---------------------------------------------------------------- | --------------------------------------------------- |
 
 <br><br>
