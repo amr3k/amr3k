@@ -7,7 +7,7 @@ I'm a Freelancer **full stack web developer**. Currently, I'm doing web applicat
 ---
 <br>
 
-# [My portfolio](https://computly.me) ![External link icon](./i/external-link.png)
+# [My portfolio](https://portfolio.computly.me) ![External link icon](./i/external-link.png)
 
 <br>
 
