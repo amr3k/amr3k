@@ -69,15 +69,15 @@ These are some of the major technologies that I use or have worked on in the pas
 ## 𝕲𝖊𝖙 𝖎𝖓 𝖙𝖔𝖚𝖈𝖍
 
 | [![Linkedin](./i/linkedin.png)](https://www.linkedin.com/in/a3k) | [![Email](./i/mail.png)](mailto://contact@computly.me) |
-| ---------------------------------------------------------------- | --------------------------------------------------- |
+| ---------------------------------------------------------------- | ------------------------------------------------------ |
 
 <br><br>
 
 ## 𝕲𝖎𝖙𝖍𝖚𝖇 📊
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=416d72&theme=flat&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/416d72/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=amr3k&theme=flat&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/amr3k/)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=416d72&show_icons=true&theme=great-gatsby&bg_color=135,471B8E,1e024b&include_all_commits=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=amr3k&show_icons=true&theme=great-gatsby&bg_color=135,471B8E,1e024b&include_all_commits=true)
 
 
 ### **Here is a random joke, to make your day better**
