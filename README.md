@@ -1,4 +1,4 @@
-<div style="text-align:center;">
+<div align=center>
 
 # 𝓗𝓲 𝓣𝓱𝓮𝓻𝓮 ![Hi.gif](./i/hi.gif)
 
@@ -12,7 +12,7 @@ I'm a Freelancer **full stack web developer**. Currently, I'm doing web applicat
 
 <br />
 
-<div style="text-align:center;">
+<div align=center>
 
 **Here is a random joke for you**
 
