@@ -19,3 +19,7 @@ I'm a Freelancer **full stack web developer**. Currently, I'm doing web applicat
 ![Random joke](https://readme-jokes.vercel.app/api?hideBorder&theme=gradientBlue&qColor=%23ffff00&aColor=%23ffffff)
 
 </div>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background: url('https://github.com/amr3k/amr3k/blob/master/i/lighthouse.png?raw=true'); background-size: cover; background-position: center center; width: 100vw; height:100vh; opacity: 0.5;]{x0000}$}
+```
